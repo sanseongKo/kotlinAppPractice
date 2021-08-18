@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhycologyTest</string>
+    <string name ="main_title">Let's find out\nyour love type!</string>
+    <string name = "question">There were favorite\nin the flower base.\nAs time gose, the flowers\nhave all withered.\nWaht are you going to do with that?</string>
+</resources>
